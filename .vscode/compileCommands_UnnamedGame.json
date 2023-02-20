@@ -1,0 +1,42 @@
+[
+	{
+		"file": "D:\\DevProjects\\UE5Projects\\UnnamedGame\\Source\\UnnamedGame\\UnnamedGame.Build.cs",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\DevProjects\\UE5Projects\\UnnamedGame\\.vscode\\compileCommands_UnnamedGame\\UnnamedGame.255.rsp"
+		],
+		"directory": "D:\\UnrealEngine5\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\DevProjects\\UE5Projects\\UnnamedGame\\Source\\UnnamedGame\\UnnamedGame.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\DevProjects\\UE5Projects\\UnnamedGame\\.vscode\\compileCommands_UnnamedGame\\UnnamedGame.255.rsp"
+		],
+		"directory": "D:\\UnrealEngine5\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\DevProjects\\UE5Projects\\UnnamedGame\\Source\\UnnamedGame\\UnnamedGame.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\DevProjects\\UE5Projects\\UnnamedGame\\.vscode\\compileCommands_UnnamedGame\\UnnamedGame.255.rsp"
+		],
+		"directory": "D:\\UnrealEngine5\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\DevProjects\\UE5Projects\\UnnamedGame\\Source\\UnnamedGame\\UnnamedGameGameModeBase.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\DevProjects\\UE5Projects\\UnnamedGame\\.vscode\\compileCommands_UnnamedGame\\UnnamedGame.255.rsp"
+		],
+		"directory": "D:\\UnrealEngine5\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\DevProjects\\UE5Projects\\UnnamedGame\\Source\\UnnamedGame\\UnnamedGameGameModeBase.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\DevProjects\\UE5Projects\\UnnamedGame\\.vscode\\compileCommands_UnnamedGame\\UnnamedGame.255.rsp"
+		],
+		"directory": "D:\\UnrealEngine5\\UE_5.1\\Engine\\Source"
+	}
+]
